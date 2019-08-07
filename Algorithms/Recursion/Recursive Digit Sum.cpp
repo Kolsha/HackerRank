@@ -22,6 +22,13 @@ int superDigit(string n, int k) {
 
     long start = digitSum(n) * k;
 
+    /* Another approach
+     * http://applet-magic.com/digitsummod9.htm
+     */
+    start = start % 9;
+    return (start) ? start : 9;
+
+
     while (start > 9) {
         start = digitSum(to_string(start));
     }
