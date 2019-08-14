@@ -9,6 +9,7 @@
  * Difficulty Medium
  * Max Score 30
  * https://www.hackerrank.com/challenges/ctci-queue-using-two-stacks/
+ * https://www.hackerrank.com/challenges/queue-using-two-stacks/
  */
 using namespace std;
 

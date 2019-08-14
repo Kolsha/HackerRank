@@ -11,6 +11,7 @@ The Node struct is defined as follows:
  * Difficulty Medium
  * Max Score 30
  * https://www.hackerrank.com/challenges/ctci-is-binary-search-tree/
+ * https://www.hackerrank.com/challenges/is-binary-search-tree/
  */
 bool checkBSTHelper(Node *root, int min, int max) {
     if (!root) return true;

@@ -3,6 +3,7 @@
  * Difficulty Easy
  * Max Score 20
  * https://www.hackerrank.com/challenges/ctci-array-left-rotation/
+ * https://www.hackerrank.com/challenges/array-left-rotation/
  */
 
 using namespace std;
