@@ -3,6 +3,7 @@
  * Difficulty Medium
  * Max Score 50
  * https://www.hackerrank.com/challenges/connected-cell-in-a-grid/
+ * same as: https://www.hackerrank.com/challenges/ctci-connected-cell-in-a-grid/
  */
 
 using namespace std;
